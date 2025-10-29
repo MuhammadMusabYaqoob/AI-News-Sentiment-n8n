@@ -48,19 +48,6 @@ This workflow automatically analyzes the sentiment of daily news articles using 
 
 ---
 
-## 🧰 Setup Instructions
-
-1. Import the workflow in **n8n** (`workflow.json`)  
-2. Add your credentials:
-   - IMAP (Email)  
-   - NewsAPI key  
-   - Gemini API key  
-   - Google Sheets access  
-   - Gmail credentials  
-3. Edit the trigger subject (e.g., `Analyze News:`)  
-4. Activate the workflow  
-
----
 
 ## 📧 Example Output
 
@@ -90,3 +77,4 @@ AI Engineer Intern @ Solutyics
 ![n8n Workflow](https://img.shields.io/badge/Automation-n8n-blue?style=for-the-badge)
 ![AI Powered](https://img.shields.io/badge/AI%20Powered-Gemini-brightgreen?style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/Integration-Google%20Sheets-yellow?style=for-the-badge)
+
