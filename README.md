@@ -31,12 +31,13 @@ This workflow automatically analyzes the sentiment of daily news articles using 
 ## 🎥 Demo Video
 
 <p align="center">
-  <video src="demo.mp4" width="700" controls>
-    Your browser does not support the video tag.
-  </video>
+  <video src="./assets/demo.mp4" width="700" controls></video>
 </p>
 
-> 🎬 Watch how the n8n workflow automatically fetches news, analyzes sentiment, and emails a daily summary.
+<p align="center">
+  ▶️ <a href="https://github.com/muhammadmusabyaqoob/AI-News-Sentiment-n8n/blob/main/demo.mp4?raw=true">Click here to view the video</a>
+</p>
+
 
 
 
@@ -92,6 +93,7 @@ AI Engineer Intern @ Solutyics
 ![n8n Workflow](https://img.shields.io/badge/Automation-n8n-blue?style=for-the-badge)
 ![AI Powered](https://img.shields.io/badge/AI%20Powered-Gemini-brightgreen?style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/Integration-Google%20Sheets-yellow?style=for-the-badge)
+
 
 
 
