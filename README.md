@@ -18,7 +18,12 @@ This workflow automatically analyzes the sentiment of daily news articles using 
 
 **Trigger → Code → HTTP → Gemini AI → Google Sheets → Summary → Gmail**
 
-*(Add a visual diagram in /assets/workflow-diagram.png if you like)*
+<h2 align="center">🧭 Workflow Diagram</h2>
+
+<p align="center">
+  <img src="workflow.png" alt="n8n Workflow Diagram" width="700"/>
+</p>
+
 
 ---
 
