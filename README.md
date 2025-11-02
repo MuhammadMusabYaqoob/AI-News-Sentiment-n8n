@@ -31,7 +31,7 @@ This workflow automatically analyzes the sentiment of daily news articles using 
 ## 🎥 Demo Video
 
 <p align="center">
-  <video src="./assets/demo.mp4" width="700" controls></video>
+  <video src="demo.mp4" width="700" controls></video>
 </p>
 
 <p align="center">
@@ -93,6 +93,7 @@ AI Engineer Intern @ Solutyics
 ![n8n Workflow](https://img.shields.io/badge/Automation-n8n-blue?style=for-the-badge)
 ![AI Powered](https://img.shields.io/badge/AI%20Powered-Gemini-brightgreen?style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/Integration-Google%20Sheets-yellow?style=for-the-badge)
+
 
 
 
